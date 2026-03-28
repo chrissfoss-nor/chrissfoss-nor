@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **chrissfoss-nor/chrissfoss-nor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I’m Chris Foss 👋
+
+🎓 Computer Science student in Trondheim, Norway  
+🧠 Interested in AI, concept development, and turning ideas into small prototypes  
+📚 Studying at **[NTNU]**  
+
+### Quick links
+- 💼 LinkedIn: [https://www.linkedin.com/in/christian-steenfeldt-foss-47bb60322/]
+- ✉️ Contact: [chrissfoss@outlook.com]
