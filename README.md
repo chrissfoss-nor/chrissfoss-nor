@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🎓 Computer Science student in Trondheim, Norway  
 🧠 Interested in AI, concept development, and turning ideas into small prototypes  
-📚 Studying at **[NTNU]**  
+📚 Studying at **NTNU**  
 
 ### Quick links
 - 💼 [LinkedIn](https://www.linkedin.com/in/christian-steenfeldt-foss-47bb60322/)
