@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 
 ### Quick links
 - 💼 [LinkedIn](https://www.linkedin.com/in/christian-steenfeldt-foss-47bb60322/)
-- ✉️ Contact: chrissfoss@outlook.com
+- ✉️ Contact: chrissfoss0@gmail.com
+
